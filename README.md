@@ -36,7 +36,7 @@ src -
 * `axios` isn't something new to you, you've used it before to make **Asynchronous JavaScript and XML** requests.
 * `redux-thunk` `redux-logger` are the technologies you'll be introduced to here.
 
-## middlware
+## middleware
 
 * Simply put, middleware is software that sits between our application and other pieces of technology we use as developers.
 * Consider something we can use to augment the powers of Redux. `redux` has a package you can use called `applyMiddleware` that will allow you to install utilities to help you achieve specific tasks.
